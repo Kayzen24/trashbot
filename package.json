@@ -1,14 +1,14 @@
 {
-  "name": "miku",
+  "name": "Kayzen",
   "version": "1.2.3",
-  "description": "Wa bot md",
+  "description": "Kayzen | KayX Adalah Sebuah Bot WhatsApp",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "kurrxd",
+  "author": "KayX",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
